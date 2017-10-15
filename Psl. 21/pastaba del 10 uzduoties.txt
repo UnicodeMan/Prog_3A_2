@@ -1,0 +1,3 @@
+10 užduotis yra su klaida, apskaičiuoti reikia ne 100g saldainių kainą, o 1kg.
+Vis dėl to, jei norėsi apskaičiuoti 100g., didelio skirtumo nėra - kainą dalinant iš kilogramų reikės dalinti dar iš 10.
+Pvz.: kainuos - 35lt., nupirkta - 2.6kg., tada  35 / 2.6 / 10.   
