@@ -1,4 +1,4 @@
-![Alt text](https://cdn-img.easyicon.net/png/5488/548865.gif)
+![Alt text](http://download.easyicon.net/png/548865/100/)
 # Prog_3A_2
 
 1. Ką gali rasti:
