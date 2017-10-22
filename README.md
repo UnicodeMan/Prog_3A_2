@@ -3,8 +3,8 @@
 
 Ką gali rasti:
 
-  1. '/21-22p./*', jame yra 10 uzduociu, visos padarytos, kai kurios turi komentarus.
-  2. '/Atsiskaitymas 2017-10-20/*':
+  * '/21-22p./*', jame yra 10 uzduociu, visos padarytos, kai kurios turi komentarus.
+  * '/Atsiskaitymas 2017-10-20/*':
     * '/oranzinis lapelis/*' 3 uzduotys, su komentarais.
     * '/melynas lapelis/*' neturiu :(
 
