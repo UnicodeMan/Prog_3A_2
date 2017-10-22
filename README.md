@@ -8,6 +8,6 @@ Ką gali rasti:
     * '/oranzinis lapelis/*' 3 uzduotys, su komentarais.
     * '/melynas lapelis/*' neturiu :(
 
-* zenklas reiskia aplanko vidu, pvz /aplankas/*
+/* zenklas reiskia aplanko vidu, pvz /aplankas/*
 
 Fsio.
