@@ -1,4 +1,4 @@
-// Vieta programos vardui áraðyti
+// Vieta programos vardui Ã¡raÃ°yti
 
 # include <iostream>
 # include <cmath>
@@ -12,20 +12,20 @@ int main ()
 {
 	int sk, s1, s2, s3, s4, s5, sum;
 
-	cout << "Iveskite penkiazenkli skaiciu: ";// << endl;
+	cout << "Iveskite penkiazenkli skaiciu: ";
 	cin >> sk;
 
 	s1 = sk / 10000;
 	s2 = sk / 1000 % 10;
 	s3 = sk / 100 % 10;
-	s4 = sk / 10 % 10;
+	s4 = sk / 10 % 10; // uztenka ir "s4 = sk / 10;"
 	s5 = sk % 10;
 
-//	cout << s1 << s2 << s3 << s4 << s5;
+//	cout << s1 << s2 << s3 << s4 << s5; // sita naudojau pasitikrinimui, ar gerai atskyriau skaitmenis
 
-	sum = s1 * s1 * s1 + s2 * s2 * s2 + s3 * s3 * s3 + s4 * s4 * s4 + s5 * s5 * s5;
+	sum = s1 * s1 * s1 + s2 * s2 * s2 + s3 * s3 * s3 + s4 * s4 * s4 + s5 * s5 * s5; // surandam skaitmenu kubu suma
 
-    cout << sum;
+	cout << sum;
 
 	return 0;
 }
