@@ -1,4 +1,4 @@
-![Alt text](http://download.easyicon.net/png/548865/100/)
+![Alt text](https://github.com/UnicodeMan/Prog_3A_2/raw/master/Kita/Icons/icons8-C%2B%2B%20Filled-100.png)
 # Prog_3A_2
 
 1. Ką gali rasti:
