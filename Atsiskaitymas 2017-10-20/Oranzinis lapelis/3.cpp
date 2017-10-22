@@ -1,4 +1,4 @@
-// Vieta programos vardui árağyti
+// Vieta programos vardui Ã¡raÃ°yti
 
 # include <iostream>
 # include <cmath>
@@ -24,11 +24,11 @@ int main ()
 	cout << "Kiek 10 cento monetu guli taupykleje: ";// << endl;
 	cin >> n10;
 
-	ct = n1 + n2 * 2 + n5 * 5 + n10 * 10;
+	ct = n1 + n2 * 2 + n5 * 5 + n10 * 10; // paverciam visas monetas i centus
 
-	lt = ct / 100;
+	lt = ct / 100; // surandam, kiek is tu centu bus sveiku litu 
 
-	ct = ct - lt * 100;
+	ct = ct - lt * 100; // surandam centu likuti
 
 	cout << "Taupykleje yra " << lt << " litu ir " << ct << " centu.";
 
