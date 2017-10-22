@@ -1,7 +1,10 @@
 # Prog_3A_2
 
-Ką gali rasti:
+1. Ką gali rasti:
 
-Užduotys iš 21p. 1-6.  Yra 21 p. foto
-Užduotys iš 22p. 7-10. Visos užduotys padarytos
-Kai kurios užduotys turi komentarus. (10uzd.cpp)
+  * '/21-22p./', jame yra 10 uzduociu, visos padarytos, kai kurios turi komentarus/.
+  * '/Atsiskaitymas 2017-10-20/':
+    1. '/oranzinis lapelis' 3 uzduotys, su komentarais/.
+    2. '/melynas lapelis' neturiu :/)
+    
+Fsio/.
