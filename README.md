@@ -1,3 +1,4 @@
+![Alt text](https://cdn-img.easyicon.net/png/5488/548865.gif)
 # Prog_3A_2
 
 1. Ką gali rasti:
