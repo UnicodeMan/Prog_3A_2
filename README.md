@@ -3,11 +3,13 @@
 
 Ką gali rasti:
 
-  * '/21-22p./*', jame yra 10 uzduociu, visos padarytos, kai kurios turi komentarus.
+  * '/21-22p./*', jame yra 10 užduočių, visos padarytos, kai kurios turi komentarus.
   * '/Atsiskaitymas 2017-10-20/*':
-    * '/oranzinis lapelis/*' 3 uzduotys, su komentarais.
+    * '/oranzinis lapelis/*' 3 užduotys, su komentarais.
     * '/melynas lapelis/*' neturiu :(
+  * '/28-30p./*', pirmos 5 užduotys.
+  * '/32-33p./*', aplanke yra tik nufotografuoti du knygos puslapiai.
 
-\* zenklas reiskia aplanko vidu, pvz /aplankas/*
+\* ženklas reiškia aplanko vidų, pvz /aplankas/*
 
 Fsio.
